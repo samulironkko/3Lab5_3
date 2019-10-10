@@ -10,7 +10,7 @@ public class CalculatePi extends Thread {
 
   private static final BigDecimal TWO = new BigDecimal(2);
   private static final BigDecimal FOUR = new BigDecimal(4);
-  final int SCALE = 200000;
+  final int SCALE = 50000;
 
 
   public interface MyInterface {
